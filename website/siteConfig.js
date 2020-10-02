@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'https://www.linkedin.com/in/samantha-whitt-780907101/',
-        // twitter: '',
+        twitter: '',
         github: 'https://github.com/smwhitt/',
     },
 
